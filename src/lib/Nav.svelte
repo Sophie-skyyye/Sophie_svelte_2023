@@ -1,6 +1,23 @@
-<nav>
-    <a href="https://en.wikipedia.org/wiki/Honda">Honda</a>  
-    <a href="https://en.wikipedia.org/wiki/Subaru">Subaru</a> 
-    <a href="https://en.wikipedia.org/wiki/Toyota">Toyota</a> 
-    <a href="https://en.wikipedia.org/wiki/Mitsubishi_Motors">Mitsubishi Motors</a> 
-</nav>
+<div class="hero">
+    <nav>
+        <img src="src/lib/images/Firstdrivelogo_croped.png"   class="logo" >
+        <ul>
+            <!-- svelte-ignore a11y-missing-attribute -->
+            <li><a herf="#">Honda</a></li>
+            <!-- svelte-ignore a11y-missing-attribute -->
+            <li><a herf="#">Subaru</a></li>
+            <!-- svelte-ignore a11y-missing-attribute -->
+            <li><a herf="#">Toyota</a></li>
+            <!-- svelte-ignore a11y-missing-attribute -->
+            <li><a herf="#">Mitsubishi </a></li>
+        </ul>
+
+        <div class="sub-menu-wrap">
+            <div class="sub-menu">
+                <div class="user-info">
+                    
+                </div>
+            </div>
+        </div>
+    </nav>   
+</div>

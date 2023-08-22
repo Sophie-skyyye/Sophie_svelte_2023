@@ -1,6 +1,7 @@
 <div class="main">
     <nav>
-        <img src="src/lib/images/Firstdrivelogo_croped.png"   class="logo" >
+        <!-- svelte-ignore a11y-missing-attribute -->
+        <img src="images/Firstdrivelogo_croped.png" class="logo" >
         <ul>
             <!-- svelte-ignore a11y-missing-attribute -->
             <li><a herf="#">Honda</a></li>
@@ -10,14 +11,6 @@
             <li><a herf="#">Toyota</a></li>
             <!-- svelte-ignore a11y-missing-attribute -->
             <li><a herf="#">Mitsubishi </a></li>
-        </ul>
-
-        <div class="sub-menu-wrap">
-            <div class="sub-menu">
-                <div class="user-info">
-                    
-                </div>
-            </div>
-        </div>
+        </ul>                            
     </nav>   
 </div>

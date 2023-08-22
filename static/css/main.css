@@ -19,7 +19,6 @@ nav{
     align-items: center;
     justify-content: space-between;
     position: relative;
-
 }
 
 nav a:hover {
@@ -28,7 +27,6 @@ nav a:hover {
 }
 .logo{
     width: 70px;
-
 }
 
 nav ul{
@@ -45,8 +43,14 @@ nav ul li{
 
 nav ul li a{
     color: #fff;
-    text-decoration: none;
-    
+    text-decoration: none;   
+}
+
+.footer{
+    background: #8E8EAD;
+    color: #e6e6fa;
+    padding: 2px 2%;
+    display: flex;
 }
 
     

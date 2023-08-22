@@ -1,4 +1,4 @@
-<div class="hero">
+<div class="main">
     <nav>
         <img src="src/lib/images/Firstdrivelogo_croped.png"   class="logo" >
         <ul>

@@ -53,5 +53,48 @@ nav ul li a{
     display: flex;
 }
 
+.Honda{
+    width: 100%;
+    background: #e6e6fa;
+    color: #525252;  
+    display: block;
+    position: relative;
+    position: absolute;
+    top: 13%;
+  transform: translateY(-50%);
+}
+
+.Subaru{
+    width: 100%;
+    background: #e6e6fa;
+    color: #525252;  
+    display: block;
+    position: relative;
+    position: absolute;
+    top: 30%;
+  transform: translateY(-50%);
+}
+.Toyota{
+    width: 100%;
+    background: #e6e6fa;
+    color: #525252;  
+    display: block;
+    position: relative;
+    position: absolute;
+    top: 49%;
+  transform: translateY(-50%); 
+}
+
+.Mitsubishi{
+    width: 100%;
+    background: #e6e6fa;
+    color: #525252;  
+    display: block;
+    position: relative;
+    position: absolute;
+    top: 68%;
+  transform: translateY(-50%);
+}
+
     
     

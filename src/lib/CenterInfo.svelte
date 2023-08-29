@@ -32,22 +32,24 @@
         <h4> 
             Products:
         </h4>	
-                Automobiles,
-                Commercial vehicles,
-                Luxury cars,
-                Motorcycles,
-                Scooters,
-                Electric generators,
-                Water pumps,
-                Lawn and garden equipment,
-                Rotary tillers,
-                Outboard motors,
-                Robotics,
-                Jet aircraft,
-                Jet engines,
-                Thin-film solar cells,
-                Internavi (telematics)
-    
+                Automobiles
+                <p>Commercial vehicles</p>
+                <p>Luxury cars</p>
+                <p>Motorcycles</p>
+                <p></p>Scooters
+                <p></p>Electric generators
+                <p></p>Water pumps
+                <p></p>Lawn and garden equipment
+                <p></p>Rotary tillers
+                <p></p>Outboard motors
+                <p></p>Robotics
+                <p></p>Jet aircraft
+                <p></p>Jet engines
+                <p></p>Thin-film solar cells
+                <p></p>Internavi (telematics)
+
+
+    <!--add images of honda car-->
 </div>
 
 <div class="Subaru">

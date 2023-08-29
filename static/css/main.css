@@ -59,20 +59,15 @@ nav ul li a{
     color: #525252;  
     display: block;
     position: relative;
-    position: absolute;
-    top: 13%;
-  transform: translateY(-50%);
+    bottom: 880px;    
 }
-
 .Subaru{
     width: 100%;
     background: #e6e6fa;
     color: #525252;  
     display: block;
     position: relative;
-    position: absolute;
-    top: 30%;
-  transform: translateY(-50%);
+    bottom: 860px;  
 }
 .Toyota{
     width: 100%;
@@ -80,9 +75,7 @@ nav ul li a{
     color: #525252;  
     display: block;
     position: relative;
-    position: absolute;
-    top: 49%;
-  transform: translateY(-50%); 
+    bottom: 840px;   
 }
 
 .Mitsubishi{
@@ -91,9 +84,7 @@ nav ul li a{
     color: #525252;  
     display: block;
     position: relative;
-    position: absolute;
-    top: 68%;
-  transform: translateY(-50%);
+    bottom: 820px;  
 }
 
     
